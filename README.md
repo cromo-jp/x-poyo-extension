@@ -19,7 +19,7 @@ X(Twitter) のタイムライン上で表示される投稿本文の語尾を、
 1. Chrome で `chrome://extensions` を開く
 2. 右上の「デベロッパー モード」を ON にする
 3. 「パッケージ化されていない拡張機能を読み込む」を押す
-4. このフォルダ `/Users/cromo/Documents/x-poyo-extension` を選ぶ
+4. このフォルダ `x-poyo-extension` を選ぶ
 5. X を開くか再読み込みする
 
 ## 注意
